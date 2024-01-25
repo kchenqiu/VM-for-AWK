@@ -2,7 +2,7 @@
 Created for CSI 311
 
 ## Virtual Machine for AWK Language
-A Virtual Machine is "the virtualization or emulation of a computer system", in this Virtual Machine, it will simulate a program that can take in AWK code and process it.
+A Virtual Machine is "the virtualization or emulation of a computer system". In this Virtual Machine, it will simulate a program that can take in AWK code and process it.
 
 This program is created for the intention of putting AWK code through a Lexer, Parser and Interpreter, in order to translate the code into machine readable language. Most of the code is reusable for other languages by changing the enums(Token.java, OperationNode.java) and syntax for the lexer and parser.
 
